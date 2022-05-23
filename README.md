@@ -9,4 +9,5 @@ Here are some places I've put (or will soon put) my software engineering skills 
 
 I've primarily used Java, Python, Go, and JavaScript/TypeScript throughout my internships and am familiar with many tools and technologies. I am also a motivated individual who can quickly learn and apply brand-new concepts (check out more about me from the perspective of my peers, mentors, and managers in the recommendation section of my LinkedIn). Additionally, having managed organizations and events of 100+ people, I can step into a leadership role in a team-oriented environment when necessary.
 
-Feel free to send me a message through [LinkedIn](https://www.linkedin.com/in/saimaduri/) or email me at saicmaduri@gmail.com!
+<a href="mailto:saicmaduri@gmail.com">![YourEmail@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/saimaduri/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
